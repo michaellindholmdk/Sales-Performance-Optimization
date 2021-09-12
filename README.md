@@ -21,4 +21,4 @@ The most important findings from this analysis:
 * United Kingdom
 * Portugal
 
-A good approach would be to run small campaigns in these countries, collecting and analyzing the purchases of new customers to make sure that these trends are confirmed.
+A good approach would be to run small campaigns in these countries, collecting and analyzing the purchases by new customers to make sure that these trends are confirmed.
