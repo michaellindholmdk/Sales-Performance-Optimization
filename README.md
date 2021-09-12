@@ -14,7 +14,7 @@ To answer these questions I will join multiple tables from an SQL database conta
 
 The most important findings from this analysis:
 
-1. Based on the total sales in the USA, the campaign should focus on the following artists: Red Tone (Punk), Meteor and the Girls (Pop) and Slim Jim Bites (Blues). Furthermore it should be noted that the 'rock' genre is by far the best performing genre accounting for 53% of the total sales in the USA.
+1. Based on the total sales in the USA, the campaign should focus on the following artists: Red Tone (Punk), Meteor and the Girls (Pop) and Slim Jim Bites (Blues). Furthermore it should be noted that the 'rock' genre is by far the best performing genre accounting for 53% of the total sales in the USA. Thus there could be relevant to have a look-out for coming artists within this genre.
 2. Each employee seems to have a niche where they perform a major part of their sale. The analysis shows that the second highest contributor to the total sale has a very niche top genre. This could indicate a potential opportunity to increase sales in other niches by hiring support agents with a keen knowledge about other music genres.
 3. Based on the data, there may be opportunity to increase sales in the following European countries:
 * Czech Republic
